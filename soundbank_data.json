@@ -1,0 +1,55 @@
+{
+    "soundbankStructure": [
+        "subset1",
+        "subset2",
+        "subset3",
+        "subset4",
+        "subset5",
+        "subset6",
+        "subset7"
+    ],
+    "indexedSubsets": {
+        "subset1": [
+            "1000579p08456i78a54d45n13s48h68m53_multiphonic23B", 
+            "0030556p02350i95a78d78n02s86h35m93_electrobomb", 
+            "0000024p10345i15a01d00n87s06h03m34_griiiitsch", 
+            "0002500p06000i50a50d50n50s50h50m50"
+        ],
+        "subset2": [
+            "0017934p12200i52a83d09n74s87h62m38_quasiclassicgranucliks", 
+            "1000579p08456i78a54d45n13s48h68m53_multiphonic23B", 
+            "0007135p06389i33a13d04n82s27h09m67_noisygliss", 
+            "0001232p06911i55a33d63n53s72h39m60_foofile1"
+        ],
+        "subset3": [
+            "0005035p06900i08a43d23n67s45h58m45_multiphonic2F", 
+            "0000005p04325i68a40d77n84s65h41m24_foofile2", 
+            "0022674p11760i88a76d88n92s94h89m90_foofile3", 
+            "1053650p07665i18a85d45n84s49h12m35_foofile8"
+        ],
+        "subset4": [
+            "1053650p07665i18a85d45n84s49h12m35_foofile8", 
+            "0000006p02493i16a10d10n08s07h06m03_foofile4", 
+            "0022674p11760i88a76d88n92s94h89m90_foofile3", 
+            "0011697p03355i42a76d59n38s53h63m70_foofile7"
+        ],
+        "subset5": [
+            "0022674p11760i88a76d88n92s94h89m90_foofile3", 
+            "1053650p09928i61a53d42n31s22h12m03_foofile5", 
+            "0000001p01631i19a33d42n56s67h76m84_foofile6", 
+            "0011697p03355i42a76d59n38s53h63m70_foofile7"
+        ],
+        "subset6": [
+            "0011697p03355i42a76d59n38s53h63m70_foofile7", 
+            "1000579p08456i78a54d45n13s48h68m53_multiphonic23B", 
+            "0005035p06900i08a43d23n67s45h58m45_multiphonic2F", 
+            "0000006p02493i16a10d10n08s07h06m03_foofile4"
+        ],
+        "subset7": [
+            "0022674p11760i88a76d88n92s94h89m90_foofile3", 
+            "1053650p07665i18a85d45n84s49h12m35_foofile8", 
+            "0000006p02493i16a10d10n08s07h06m03_foofile4", 
+            "0000812p07250i11a69d09n12s36h07m40_tabuenca_peqgliss"
+        ]  
+    }  
+}
