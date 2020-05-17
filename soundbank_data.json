@@ -1,55 +1,171 @@
 {
     "soundbankStructure": [
-        "subset1",
-        "subset2",
-        "subset3",
-        "subset4",
-        "subset5",
-        "subset6",
-        "subset7"
+        "all",
+        "pianoFX",
+        "pureElectro",
+        "violent",
+        "pureMateric",
+        "vocalSynth",
+        "pureDrums",
+        "clearlyPitched",
+        "liquid",
+        "stone",
+        "textural",
+        "noise",
+        "bells",
+        "drones",
+        "granular",
+        "klem",
+        "violin",
+        "victorParra"
     ],
     "indexedSubsets": {
-        "subset1": [
-            "1000579p08456i78a54d45n13s48h68m53_multiphonic23B", 
-            "0030556p02350i95a78d78n02s86h35m93_electrobomb", 
-            "0000024p10345i15a01d00n87s06h03m34_griiiitsch", 
-            "0002500p06000i50a50d50n50s50h50m50"
+        "all": [
+            "0000291p05624i57a69d99n67s41h07m56_caji", 
+            "0000499p06200i56a91d97n78s50h02m28_bootlenoise",
+            "0000629p05200i77a99d63n07s10h02m95_woodshock",
+            "0000694p10020i22a77d89n16s68h12m28_slided_pianobassstring",
+            "0000812p07250i11a69d91n12s36h07m40_tabuenca_peqgliss",
+            "0000849p07800i21a95d75n40s50h07m35_piano_nail",
+            "0001586p03300i82a96d55n20s31h04m90_woodstring",
+            "0002997p02100i39a30d86n76s34h06m57_helicop",
+            "0003528p08470i17a88d93n81s12h10m30_quickgorgoteo",
+            "0003730p04857i41a69d89n96s30h15m72_alienstereo",
+            "0005661p05900i32a78d87n91s60h10m71_gutugutu",
+            "0007135p06389i33a13d96n82s27h09m67_noisygliss",
+            "0008517p02250i43a95d94n37s40h10m87_piano_shockingstrings",
+            "0011448p07400i29a76d93n21s31h14m34_beatingquick",
+            "0011818p03185i63a93d63n43s28h03m90_pianocluster_bass",
+            "0017934p12200i52a83d91n74s87h62m38_quasiclassicgranucliks",
+            "0018168p05200i42a90d53n89s10h03m38_airport_hihi",
+            "0022868p06760i21a22d72n63s62h35m61_convolvoohm",
+            "0028356p08245i57a14d93n94s38h11m43_octavebug",
+            "0030647p11200i78a79d83n84s63h07m34_batsonar",
+            "0016189p06700i39a43d99n97s10h06m85_crunchelectrnoise",
+            "0030900p07800i53a02d98n95s61h13m73_desintegrate_fof_choir",
+            "0001407p06720i28a37d95n56s33h16m67_victor_gravit_waves_001",
+            "0000797p05990i05a25d95n56s58h27m72_victor_gravit_waves_002",
+            "0001950p08000i36a75d95n39s60h33m75_victor_gravit_waves_003",
+            "0002174p05500i82a88d93n36s56h21m62_victor_gravit_waves_004",
+            "0000593p06700i65a84d96n28s53h14m75_victor_gravit_waves_005",
+            "0000555p05580i17a71d96n33s42h10m49_victor_gravit_waves_006",
+            "0000789p05000i66a84d96n28s35h09m74_victor_gravit_waves_007",
+            "0002293p05000i37a88d96n32s39h09m68_victor_gravit_waves_008"
         ],
-        "subset2": [
-            "0017934p12200i52a83d09n74s87h62m38_quasiclassicgranucliks", 
-            "1000579p08456i78a54d45n13s48h68m53_multiphonic23B", 
-            "0007135p06389i33a13d04n82s27h09m67_noisygliss", 
-            "0001232p06911i55a33d63n53s72h39m60_foofile1"
+        "pianoFX": [
+            "0000629p05200i77a99d63n07s10h02m95_woodshock",
+            "0000694p10020i22a77d89n16s68h12m28_slided_pianobassstring",
+            "0000849p07800i21a95d75n40s50h07m35_piano_nail",
+            "0001586p03300i82a96d55n20s31h04m90_woodstring",
+            "0008517p02250i43a95d94n37s40h10m87_piano_shockingstrings",
+            "0011818p03185i63a93d63n43s28h03m90_pianocluster_bass"
         ],
-        "subset3": [
-            "0005035p06900i08a43d23n67s45h58m45_multiphonic2F", 
-            "0000005p04325i68a40d77n84s65h41m24_foofile2", 
-            "0022674p11760i88a76d88n92s94h89m90_foofile3", 
-            "1053650p07665i18a85d45n84s49h12m35_foofile8"
+        "pureElectro": [
+            "0000291p05624i57a69d99n67s41h07m56_caji", 
+            "0000499p06200i56a91d97n78s50h02m28_bootlenoise",
+            "0002997p02100i39a30d86n76s34h06m57_helicop",
+            "0003528p08470i17a88d93n81s12h10m30_quickgorgoteo",
+            "0003730p04857i41a69d89n96s30h15m72_alienstereo",
+            "0005661p05900i32a78d87n91s60h10m71_gutugutu",
+            "0007135p06389i33a13d96n82s27h09m67_noisygliss",
+            "0017934p12200i52a83d91n74s87h62m38_quasiclassicgranucliks",
+            "0028356p08245i57a14d93n94s38h11m43_octavebug",
+            "0030647p11200i78a79d83n84s63h07m34_batsonar",
+            "0016189p06700i39a43d99n97s10h06m85_crunchelectrnoise",
+            "0030900p07800i53a02d98n95s61h13m73_desintegrate_fof_choir"
+
         ],
-        "subset4": [
-            "1053650p07665i18a85d45n84s49h12m35_foofile8", 
-            "0000006p02493i16a10d10n08s07h06m03_foofile4", 
-            "0022674p11760i88a76d88n92s94h89m90_foofile3", 
-            "0011697p03355i42a76d59n38s53h63m70_foofile7"
+        "violent": [
+            "0000629p05200i77a99d63n07s10h02m95_woodshock",
+            "0000694p10020i22a77d89n16s68h12m28_slided_pianobassstring",
+            "0001586p03300i82a96d55n20s31h04m90_woodstring",
+            "0008517p02250i43a95d94n37s40h10m87_piano_shockingstrings",
+            "0011818p03185i63a93d63n43s28h03m90_pianocluster_bass" 
         ],
-        "subset5": [
-            "0022674p11760i88a76d88n92s94h89m90_foofile3", 
-            "1053650p09928i61a53d42n31s22h12m03_foofile5", 
-            "0000001p01631i19a33d42n56s67h76m84_foofile6", 
-            "0011697p03355i42a76d59n38s53h63m70_foofile7"
+        "pureMateric": [
+            "0000629p05200i77a99d63n07s10h02m95_woodshock",
+            "0001586p03300i82a96d55n20s31h04m90_woodstring",
+            "0011448p07400i29a76d93n21s31h14m34_beatingquick" 
         ],
-        "subset6": [
-            "0011697p03355i42a76d59n38s53h63m70_foofile7", 
-            "1000579p08456i78a54d45n13s48h68m53_multiphonic23B", 
-            "0005035p06900i08a43d23n67s45h58m45_multiphonic2F", 
-            "0000006p02493i16a10d10n08s07h06m03_foofile4"
+        "vocalSynth": [
+            "0030900p07800i53a02d98n95s61h13m73_desintegrate_fof_choir"
+
         ],
-        "subset7": [
-            "0022674p11760i88a76d88n92s94h89m90_foofile3", 
-            "1053650p07665i18a85d45n84s49h12m35_foofile8", 
-            "0000006p02493i16a10d10n08s07h06m03_foofile4", 
-            "0000812p07250i11a69d09n12s36h07m40_tabuenca_peqgliss"
-        ]  
+        "pureDrums": [
+            "0000812p07250i11a69d91n12s36h07m40_tabuenca_peqgliss" 
+        ],
+        "clearlyPitched": [
+            "0000849p07800i21a95d75n40s50h07m35_piano_nail",
+            "0001586p03300i82a96d55n20s31h04m90_woodstring",
+            "0005661p05900i32a78d87n91s60h10m71_gutugutu",
+            "0022868p06760i21a22d72n63s62h35m61_convolvoohm",
+            "0028356p08245i57a14d93n94s38h11m43_octavebug",
+            "0030900p07800i53a02d98n95s61h13m73_desintegrate_fof_choir"
+        ],
+        "liquid": [
+            "0003528p08470i17a88d93n81s12h10m30_quickgorgoteo"
+        ],
+        "stone": [
+            "0017934p12200i52a83d91n74s87h62m38_quasiclassicgranucliks"
+        ],
+        "textural": [
+            "0002997p02100i39a30d86n76s34h06m57_helicop",
+            "0003528p08470i17a88d93n81s12h10m30_quickgorgoteo",
+            "0003730p04857i41a69d89n96s30h15m72_alienstereo",
+            "0011448p07400i29a76d93n21s31h14m34_beatingquick",
+            "0017934p12200i52a83d91n74s87h62m38_quasiclassicgranucliks",
+            "0018168p05200i42a90d53n89s10h03m38_airport_hihi",
+            "0028356p08245i57a14d93n94s38h11m43_octavebug",
+            "0030647p11200i78a79d83n84s63h07m34_batsonar",
+            "0016189p06700i39a43d99n97s10h06m85_crunchelectrnoise"
+        ],
+        "noise": [
+            "0007135p06389i33a13d96n82s27h09m67_noisygliss",
+            "0018168p05200i42a90d53n89s10h03m38_airport_hihi",
+            "0030647p11200i78a79d83n84s63h07m34_batsonar",
+            "0016189p06700i39a43d99n97s10h06m85_crunchelectrnoise"
+        ],
+        "bells": [
+            "0022868p06760i21a22d72n63s62h35m61_convolvoohm"
+        ],
+        "drones": [
+            "0022868p06760i21a22d72n63s62h35m61_convolvoohm",
+            "0016189p06700i39a43d99n97s10h06m85_crunchelectrnoise"
+        ],
+        "granular": [
+            "0017934p12200i52a83d91n74s87h62m38_quasiclassicgranucliks",
+            "0028356p08245i57a14d93n94s38h11m43_octavebug",
+            "0030647p11200i78a79d83n84s63h07m34_batsonar"
+        ],
+        "klem": [
+            "0001407p06720i28a37d95n56s33h16m67_victor_gravit_waves_001",
+            "0000797p05990i05a25d95n56s58h27m72_victor_gravit_waves_002",
+            "0001950p08000i36a75d95n39s60h33m75_victor_gravit_waves_003",
+            "0002174p05500i82a88d93n36s56h21m62_victor_gravit_waves_004",
+            "0000593p06700i65a84d96n28s53h14m75_victor_gravit_waves_005",
+            "0000555p05580i17a71d96n33s42h10m49_victor_gravit_waves_006",
+            "0000789p05000i66a84d96n28s35h09m74_victor_gravit_waves_007",
+            "0002293p05000i37a88d96n32s39h09m68_victor_gravit_waves_008"
+        ],
+        "violin": [
+            "0001407p06720i28a37d95n56s33h16m67_victor_gravit_waves_001",
+            "0000797p05990i05a25d95n56s58h27m72_victor_gravit_waves_002",
+            "0001950p08000i36a75d95n39s60h33m75_victor_gravit_waves_003",
+            "0002174p05500i82a88d93n36s56h21m62_victor_gravit_waves_004",
+            "0000593p06700i65a84d96n28s53h14m75_victor_gravit_waves_005",
+            "0000555p05580i17a71d96n33s42h10m49_victor_gravit_waves_006",
+            "0000789p05000i66a84d96n28s35h09m74_victor_gravit_waves_007",
+            "0002293p05000i37a88d96n32s39h09m68_victor_gravit_waves_008"
+        ],
+        "victorParra": [
+            "0001407p06720i28a37d95n56s33h16m67_victor_gravit_waves_001",
+            "0000797p05990i05a25d95n56s58h27m72_victor_gravit_waves_002",
+            "0001950p08000i36a75d95n39s60h33m75_victor_gravit_waves_003",
+            "0002174p05500i82a88d93n36s56h21m62_victor_gravit_waves_004",
+            "0000593p06700i65a84d96n28s53h14m75_victor_gravit_waves_005",
+            "0000555p05580i17a71d96n33s42h10m49_victor_gravit_waves_006",
+            "0000789p05000i66a84d96n28s35h09m74_victor_gravit_waves_007",
+            "0002293p05000i37a88d96n32s39h09m68_victor_gravit_waves_008"
+        ]
     }  
 }
